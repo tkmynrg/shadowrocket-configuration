@@ -13,9 +13,9 @@ DOMAIN,metrika.yandex.ru
 DOMAIN,advertising.apple.com
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.world
+DOMAIN,api.leanplum.com
 DOMAIN-SUFFIX,pushwoosh.com
-DOMAIN,api.amplitude.com
 DOMAIN-SUFFIX,radar.cedexis.com
-DOMAIN,api2.amplitude.com
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,api.leanplum.com
