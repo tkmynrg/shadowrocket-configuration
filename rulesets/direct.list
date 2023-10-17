@@ -36,6 +36,7 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN-KEYWORD,googlevideo.com
 USER-AGENT,com.google.ios.youtube*
 DOMAIN-KEYWORD,youtube.com
+DOMAIN-SUFFIX googleapis.com
 
 
 DOMAIN-SUFFIX,plex.tv
