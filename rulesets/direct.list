@@ -25,6 +25,10 @@ IP-CIDR,2001:B28:F23D::/48
 IP-CIDR,2001:B28:F23F::/48
 IP-CIDR,2001:67C:4E8::/48
 
+# VK
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk.com
+
 # SPEEDUP
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastly.net
@@ -86,6 +90,7 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,googlevideo.com
 
 # Steam
 DOMAIN-SUFFIX,steam-chat.com
@@ -96,6 +101,11 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
+
+# Whatsapp
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.com
+
 
 # Twitch
 DOMAIN-SUFFIX,twitch.tv
@@ -134,6 +144,6 @@ DOMAIN-KEYWORD,google.ru
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,booster.osnova.io
 DOMAIN-SUFFIX,osnova.io
-DOMAIN,yandex.net
+DOMAIN-SUFFIX,yandex.net
 DST-PORT,32400
 IP-CIDR,149.154.167.50/32
