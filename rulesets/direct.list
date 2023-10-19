@@ -61,7 +61,6 @@ DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
@@ -120,7 +119,6 @@ DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 
 # Apple
 DOMAIN,www-cdn.icloud.com.akadns.net
