@@ -1,3 +1,9 @@
+# Top blocked sites
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.ru
 DOMAIN-SUFFIX,rutracker.net
@@ -9,3 +15,17 @@ DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,www.quora.com
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,rutracker.org
+
+# DNS Leak
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.net
