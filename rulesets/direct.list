@@ -9,7 +9,6 @@ IP-CIDR,127.0.0.0/8
 # Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
@@ -117,8 +116,6 @@ DOMAIN-KEYWORD,googlevideo.com
 USER-AGENT,com.google.ios.youtube*
 DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,googlevideo.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
 
 # Apple
 DOMAIN,www-cdn.icloud.com.akadns.net

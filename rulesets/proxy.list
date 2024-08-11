@@ -2,6 +2,10 @@
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,coin
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ytimg
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,rutracker.org
@@ -15,6 +19,24 @@ DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,www.quora.com
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,www.binance.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,coinbase
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,sso.ya.ru
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,hd.kinopoisk.ru
+DOMAIN-SUFFIX,sso.kinopoisk.ru
+DOMAIN-SUFFIX,api.ott.kinopoisk.ru
+DOMAIN-SUFFIX,graphql.kinopoisk.ru
+DOMAIN-SUFFIX,payment-widget.plus.kinopoisk.ru
 
 # DNS Leak
 DOMAIN-SUFFIX,dnsleaktest.com
